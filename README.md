@@ -2,7 +2,7 @@
 
 A CLI App to find out if you were born on a leap year.
 
-This is a levelZero practice project of neogCamp.https://neog.camp/guide/lessonone
+This is a levelZero practice project of [neogCamp.](https://neog.camp/guide/lessonone)
 
 # Preview
 

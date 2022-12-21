@@ -2,8 +2,15 @@
 
 A CLI App to find out if you were born on a leap year.
 
-This is a levelZero practice project of [neogCamp.](https://neog.camp/guide/lessonone)
+# Tech Stack
+
+* JavaScript
+* Replit
 
 # Preview
 
-[Were you born on a Leap Year?](https://replit.com/@gautamBm/Were-you-born-on-a-leap-year?embed=1&output=1)
+[View live](https://replit.com/@gautamBm/Were-you-born-on-a-leap-year?embed=1&output=1)
+
+# License
+
+[View license](https://github.com/gautam-balamurali/were-you-born-on-a-leap-year_cli-app/blob/main/LICENSE.md)

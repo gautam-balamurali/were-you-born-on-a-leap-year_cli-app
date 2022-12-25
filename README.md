@@ -1,6 +1,8 @@
 # were-you-born-on-a-leap-year_cli-app
 
-A CLI App to find out if you were born on a leap year. Input year of birth and it will tell if it's a leap year or not. Invalid input validation is handled.
+* A CLI App to find out if you were born on a leap year.
+* Input year of birth and it will tell if it's a leap year or not.
+* Invalid input validation is handled.
 
 # Snapshots
 

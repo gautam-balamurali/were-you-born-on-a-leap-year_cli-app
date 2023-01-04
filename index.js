@@ -29,7 +29,7 @@ function welcome() {
 
 //Function to check leap year
 function isLeapYear(year, name) {
-  if (isNaN(year)) {
+  if (isNaN(year) || year.length === 0) {
     return log(`\n${red(`Please enter a valid year format for e.g. 2001.`)}`);
   }
   if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
